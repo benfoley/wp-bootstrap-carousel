@@ -5,3 +5,6 @@
 * Stable tag: 0.5.0
 
 [![Build Status](https://travis-ci.org/diggy/wp-bootstrap-carousel.svg?branch=master)](https://travis-ci.org/diggy/wp-bootstrap-carousel)
+
+
+Added attr ids for gallery shortcode to display delected images if they are set.
