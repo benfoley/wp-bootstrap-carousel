@@ -11,5 +11,7 @@ jQuery(document).ready(function($){
             $(this).find("div:not(:first)").removeClass("active");
         });
     }
-    $(".carousel").carousel();
+    $(".carousel").carousel({
+        // interval: 50000,
+    });
 });
